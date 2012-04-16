@@ -1,0 +1,1 @@
+A 2D world where objects chase and flee from each other while avoiding obstacles. The objects have a field of vision and can only chase things in that field of vision.
